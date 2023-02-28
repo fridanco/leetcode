@@ -1,1 +1,0 @@
-/Users/francescodifranco/Documents/OpenSourceProjects/LeetCode/Longest_Common_Prefix/target/debug/Longest_Common_Prefix: /Users/francescodifranco/Documents/OpenSourceProjects/LeetCode/Longest_Common_Prefix/src/main.rs
