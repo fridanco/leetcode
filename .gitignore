@@ -1,3 +1,3 @@
-./Longest_Common_Prefix/cargo.lock
-./Longest_Common_Prefix/target
-./*/target
+*/target
+*/cargo.lock
+.*
